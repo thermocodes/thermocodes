@@ -3,7 +3,7 @@
 *Professor:* Roger  
 *Instituição:* IFCE – Campus Maranguape  
 
-Bem-vindo ao repositório oficial da *thermocodes, uma empresa fictícia criada para desenvolver soluções modernas de conversão de temperatura utilizando conceitos de **Programação Orientada a Objetos***.
+Bem-vindo ao repositório oficial da thermocodes, uma empresa fictícia criada para desenvolver soluções modernas de conversão de temperatura utilizando conceitos de **Programação Orientada a Objetos**.
 
 Este repositório contém o projeto desenvolvido para a disciplina de POO, aplicando classes, objetos, encapsulamento, enums e modularização.
 
@@ -11,7 +11,7 @@ Este repositório contém o projeto desenvolvido para a disciplina de POO, aplic
 
 ## 🏢 Sobre a Empresa
 
-A *thermocodes* é uma empresa especializada em criar ferramentas que tornam processos de conversão mais rápidos, precisos e acessíveis.  
+A **thermocodes** é uma empresa especializada em criar ferramentas que tornam processos de conversão mais rápidos, precisos e acessíveis.  
 Nosso objetivo é facilitar a vida de desenvolvedores, estudantes e profissionais que trabalham com cálculos de temperatura.
 
 ### 🔧 Missão
