@@ -36,7 +36,8 @@ Ser referência em sistemas educacionais e ferramentas baseadas em POO.
 - ## 🚀 Funcionalidades do Sistema
 ✔ Converter temperaturas entre:  
 - Celsius  
-- Fahrenheit   
+- Fahrenheit
+- Kelvin 
 
 ✔ Interface no terminal  
 ✔ Validação de entrada   
