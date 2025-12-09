@@ -37,7 +37,6 @@ Ser referência em sistemas educacionais e ferramentas baseadas em POO.
 ✔ Converter temperaturas entre:  
 - Celsius  
 - Fahrenheit
-- Kelvin 
 
 ✔ Interface no terminal  
 ✔ Validação de entrada   
